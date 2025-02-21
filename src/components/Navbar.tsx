@@ -88,7 +88,7 @@ export default function Navbar() {
             <div>
               <Link href="/">
                 <Image
-                  src="/Cart.svg"
+                  src="/cart.svg"
                   alt="Cart"
                   width={24}
                   height={24}
